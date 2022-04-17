@@ -1,0 +1,31 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cabin-plan {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.btn-container .cabin-btn {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background: rgb(93, 93, 219);
+    color: white;
+}
