@@ -29,3 +29,17 @@
     background: rgb(93, 93, 219);
     color: white;
 }
+
+.cabin-item {
+    display: flex;
+}
+
+.cabin-img {
+    width: 200px;
+    margin: 25px;
+}
+
+.cabin-details {
+    width: 150px;
+    margin: 25px;
+}
