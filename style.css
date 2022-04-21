@@ -15,7 +15,7 @@
 .btn-container {
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin: 50px;    
 }
 
 .btn-container .cabin-btn {
@@ -31,7 +31,7 @@
 }
 
 .cabin-item {
-    display: flex;
+    display: flex;    
 }
 
 .cabin-img {
